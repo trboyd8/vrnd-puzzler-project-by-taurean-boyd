@@ -1,0 +1,14 @@
+Only tested with 1 user - 26, minor VR experience
+
+Q: How big do you feel in the scene?
+A: I feel bigger than a normal person would based on the size of the gate. Assuming its 7 feet, I'm pretty close to it.
+
+Q: How would you describe the atmosphere / mood in the scene?
+A: Medieval. There's a gate and it feels like I'm in a castle or dungeon. Gloomy.  Dimly lit.
+
+Q: Is there anything that seems off or difficult to understand?
+A: The five balls are there and seem strange. Everything else looks fine. Looks like there's nothing outside of the gate - its just grey.
+
+Conclusions:
+1. May need to adjust the scale of the room or adjust the height of the camera.
+2. Will need to give some kind of explanation to the user for the balls presence.

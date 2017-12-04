@@ -1,0 +1,12 @@
+Name: Chris
+Age: 26
+Occupation: Sales
+Quote:
+"I'll try it, but I'll probably stick to what I've been playing."
+
+Description:
+Chris works in sales for a big company. He works from home and often has time to play video games.
+When he finds a game that he likes, he'll stick to that game for quite a while. Although he is willing to
+try other games, he'll usually go back to the last game that held his attention.
+
+VR Experience Level: Beginner
